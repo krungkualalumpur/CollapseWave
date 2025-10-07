@@ -1,2 +1,2 @@
 # CollapseWave
-A collapse wave function system I made in 2023
+A collapse wave function system I made in 2022
